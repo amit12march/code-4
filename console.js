@@ -1,3 +1,3 @@
-function multiplyTwoNumbers(a+ b){
+function multiplyTwoNumbers(a,b){
     return a*b ;
 }
